@@ -1,0 +1,8 @@
+login pelanggan :
+email : mikha@gmail.com
+pasword : mikha123
+
+
+admin panel 
+id : admin
+pasword : admin123
